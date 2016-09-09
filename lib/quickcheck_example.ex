@@ -1,0 +1,2 @@
+defmodule QuickcheckExample do
+end
