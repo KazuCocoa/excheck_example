@@ -1,0 +1,2 @@
+%{"excheck": {:hex, :excheck, "0.5.0", "90e55d33563af6680b000d200b56d48aa2c00619b701ca294fcf71ded60fd75f", [:mix], []},
+  "triq": {:git, "https://github.com/triqng/triq.git", "2c497398e020e06db8496f1d89f12481cc5adab9", []}}
