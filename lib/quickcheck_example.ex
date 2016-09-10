@@ -17,6 +17,6 @@ defmodule QuickcheckExample do
     s_sort = sort(smaller)
     g_sort = sort(greater)
 
-    [s_sort | [h | g_sort]] |> List.flatten
+    s_sort ++ [h | g_sort]
   end
 end
